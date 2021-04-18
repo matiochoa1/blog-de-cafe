@@ -2,19 +2,19 @@
 
 // Generar nuevo enlace
 
-const nuevoEnlace = document.createElement('A');
+// const nuevoEnlace = document.createElement('A');
 
 // Agregamos el href
-nuevoEnlace.href = 'nuevo-enlace.html';
+// nuevoEnlace.href = 'nuevo-enlace.html';
 // Agregamos el texto
-nuevoEnlace.textContent = 'Tienda Virtual';
+// nuevoEnlace.textContent = 'Tienda Virtual';
 // Agregamos la clase
-nuevoEnlace.classList.add('navegacion__enlace');
+// nuevoEnlace.classList.add('navegacion__enlace');
 
 // Añadirlo al documento HTML
 
 const navegacion = document.querySelector('.navegacion');
-navegacion.appendChild(nuevoEnlace);
+// navegacion.appendChild(nuevoEnlace);
 
 // EVENTOS
 
